@@ -1,0 +1,127 @@
+name: medik
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.16.1 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  widgetbook: 2.0.5-beta
+  auto_size_text: 3.0.0
+  flutter_svg: ^1.0.3
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+  flutter_lints: ^1.0.0
+flutter: 
+  uses-material-design: true
+  assets: 
+    - packages/medik/assets/images/rectangle2.png
+    - packages/medik/assets/images/rectangle44.png
+    - packages/medik/assets/images/rectangle48.png
+    - packages/medik/assets/images/rectangle45.png
+    - packages/medik/assets/images/rectangle49.png
+    - packages/medik/assets/images/rectangle46.png
+    - packages/medik/assets/images/rectangle50.png
+    - packages/medik/assets/images/rectangle47.png
+    - packages/medik/assets/images/rectangle51.png
+    - packages/medik/assets/images/group.svg
+    - packages/medik/assets/images/rectangle8.png
+    - packages/medik/assets/images/rectangle12.png
+    - packages/medik/assets/images/rectangle13.png
+    - packages/medik/assets/images/rectangle14.png
+    - packages/medik/assets/images/test1.png
+    - packages/medik/assets/images/design1.png
+    - packages/medik/assets/images/rectangle20.png
+    - packages/medik/assets/images/notification1.svg
+    - packages/medik/assets/images/rectangle16.png
+    - packages/medik/assets/images/rectangle17.png
+    - packages/medik/assets/images/rectangle35.png
+    - packages/medik/assets/images/vector.svg
+    - packages/medik/assets/images/frame.svg
+    - packages/medik/assets/images/rectangle85.png
+    - packages/medik/assets/images/ellipse739.png
+    - packages/medik/assets/images/line181.svg
+    - packages/medik/assets/images/ellipse18.png
+    - packages/medik/assets/images/ellipse23.svg
+    - packages/medik/assets/images/ellipse24.svg
+    - packages/medik/assets/images/ellipse25.svg
+    - packages/medik/assets/images/ellipse22.png
+    - packages/medik/assets/images/ellipse26.png
+    - packages/medik/assets/images/ellipse27.png
+    - packages/medik/assets/images/ellipse19.png
+    - packages/medik/assets/images/ellipse26.svg
+    - packages/medik/assets/images/ellipse20.png
+    - packages/medik/assets/images/ellipse21.png
+    - packages/medik/assets/images/ellipse28.png
+    - packages/medik/assets/images/ellipse29.png
+    - packages/medik/assets/images/rectangle86.png
+    - packages/medik/assets/images/rectangle87.png
+    - packages/medik/assets/images/rectangle88.png
+    - packages/medik/assets/images/rectangle89.png
+    - packages/medik/assets/images/rectangle90.png
+    - packages/medik/assets/images/rectangle92.png
+    - packages/medik/assets/images/rectangle91.png
+    - packages/medik/assets/images/star1.png
+    - packages/medik/assets/images/rectangle103.png
+    - packages/medik/assets/images/basemapimage.png
+    - packages/medik/assets/images/rectangle96.png
+    - packages/medik/assets/images/rectangle95.png
+    - packages/medik/assets/images/shape.svg
+    - packages/medik/assets/images/rectangle95.svg
+    - packages/medik/assets/images/presentation1.png
+    - packages/medik/assets/images/rectangle3.png
+    - packages/medik/assets/images/ellipse1.png
+    - packages/medik/assets/images/ellipse2.png
+    - packages/medik/assets/images/ellipse3.png
+    - packages/medik/assets/images/ellipse4.png
+    - packages/medik/assets/images/ellipse5.png
+    - packages/medik/assets/images/line1.svg
+    - packages/medik/assets/images/rectangle4.png
+    - packages/medik/assets/images/group3.svg
+    - packages/medik/assets/images/line2.svg
+    - packages/medik/assets/images/path380.svg
+    - packages/medik/assets/images/rectangle7.png
+    - packages/medik/assets/images/send.svg
+    - packages/medik/assets/images/call.svg
+    - packages/medik/assets/images/video.svg
+    - packages/medik/assets/images/ellipse30.png
+    - packages/medik/assets/images/ellipse31.png
+    - packages/medik/assets/images/camera.svg
+    - packages/medik/assets/images/track.png
+    - packages/medik/assets/images/knob.png
+    - packages/medik/assets/images/ellipse7.png
+    - packages/medik/assets/images/ellipse8.png
+    - packages/medik/assets/images/ellipse9.png
+    - packages/medik/assets/images/ellipse15.png
+    - packages/medik/assets/images/ellipse16.png
+    - packages/medik/assets/images/ellipse17.png
+    - packages/medik/assets/images/rectangle64.png
+    - packages/medik/assets/images/rectangle99.svg
+    - packages/medik/assets/images/rectangle96.svg
+    - packages/medik/assets/images/rectangle100.svg
+    - packages/medik/assets/images/rectangle98.svg
+    - packages/medik/assets/images/rectangle102.svg
+    - packages/medik/assets/images/rectangle97.svg
+    - packages/medik/assets/images/rectangle101.svg
+    - packages/medik/assets/images/rectangle73.png
+    - packages/medik/assets/images/rectangle74.png
+    - packages/medik/assets/images/rectangle72.png
+    - packages/medik/assets/images/rectangle75.png
+    - packages/medik/assets/images/rectangle76.png
+    - packages/medik/assets/images/rectangle77.png
+    - packages/medik/assets/images/rectangle78.png
+    - packages/medik/assets/images/rectangle79.png
+    - packages/medik/assets/images/rectangle80.png
+    - packages/medik/assets/images/rectangle81.png
+    - packages/medik/assets/images/line10.svg
+    - packages/medik/assets/images/rectangle62.png
+    - packages/medik/assets/images/rectangle53.png
+    - packages/medik/assets/images/rectangle54.png
+    - packages/medik/assets/images/rectangle23.png
+    - packages/medik/assets/images/rectangle24.png
+    - packages/medik/assets/images/gamescheduled.png
+    - packages/medik/assets/images/gamescheduled.svg
+    - packages/medik/assets/images/rectangle69.png
